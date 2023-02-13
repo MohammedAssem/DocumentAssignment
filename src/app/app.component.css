@@ -1,0 +1,19 @@
+.text-primary{
+  color: #13C5DD !important;
+}
+:root,.text-primary,.bg-primary{
+  --bs-primary-rgb: rgb(19,197,221) !important;
+  color: rgb(19,197,221) !important;
+  background-color: rgb(19,197,221) !important;
+
+  --bs-link-hover-color:rgb(19,197,221) !important
+}
+.btn-primary  {
+  background-color: #42d1e4 !important;
+  border-color: #2bcbe0 !important;
+}
+.btn-primary:hover {
+  color: #000 !important;
+  background-color: #36cee2 !important;
+  border-color: #2bcbe0 !important;
+}
